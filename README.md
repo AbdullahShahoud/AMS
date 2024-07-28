@@ -1,16 +1,11 @@
-# playggound1
+# playggounds
 
-A new Flutter project.
+Reserve playgrounds.
 
-## Getting Started
+## the details
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+An electronic application that facilitates the work of sports facilities,
+aiming to link various categories of football practitioners and paid stadiums.
+It allows you to create your own team and communicate with other teams to join competitions. 
+It also offers the possibility of ordering food and drinks.
+It also provides search according to several factors.
