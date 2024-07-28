@@ -1,0 +1,29 @@
+class Routers{
+  static const String welcome='welcome';
+  static const String singin='singin';
+  static const String login='login';
+  static const String info='info';
+  static const  String forgote='forgote';
+  static const  String ChangePassword='ChangePassword';
+  static const  String home='home';
+  static const String detiles='detiles';
+  static const String profile='profile';
+  static const String Jointeam='Jointeam';
+  static const String addteam='addteam';
+  static const String personDetiler='personDetiler';
+  static const String frinds='frinds';
+  static const String code='code';
+  static const String booking='booking';
+  static const String detilesbooking='detilesbooking';
+  static const String finishBooking='finishBooking';
+ static const String notice='notice';
+  static const String reguest='reguest';
+    static const String news='news';
+ static const String detilsNews='detilsNews';
+  static const String competition='competition';
+  static const String search='search';
+  static const String selectPerson='selectPerson';
+  static const String sel='sel';
+  static const String detils_competition='sel';
+  static const String teams='teams';
+}
