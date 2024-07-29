@@ -1,4 +1,4 @@
-# playggounds
+# playGrounds
 
 Reserve playgrounds.
 
